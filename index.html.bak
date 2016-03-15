@@ -1,0 +1,7 @@
+---
+layout: recent
+title: Wharton's Blog
+---
+<h2> {{ page.title }} </h2>
+
+{{ content }}
